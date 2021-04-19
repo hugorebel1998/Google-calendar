@@ -1,0 +1,6 @@
+/vendor
+composer.lock
+credenciales.json
+es-us.js
+es.js
+moment.js
